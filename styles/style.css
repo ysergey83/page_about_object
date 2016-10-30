@@ -1,0 +1,62 @@
+@import url(http://fonts.googleapis.com/css?family=Arimo|Lobster);
+
+head, body {
+  background-image: url(../images/bg_map.png);
+  font-family: 'Arimo', sans-serif;
+  
+  width: 1589px 
+}
+
+section {
+  border: 2px solid #000;
+  margin: 150px;
+  padding: 30px;
+  background-color: #EFE0B9;
+  text-align: center;
+  position: relative;
+}
+
+.photo {
+  display: block;
+  margin: 0 auto;
+}
+
+.about {
+  padding: 0 50px 0 50px;
+  font-size: 24px;
+  position: relative;
+  width: 62%;
+  margin: 0 auto;
+}
+
+.hotel_date {
+  font-family: 'Lobster', cursive;
+  font-weight: bold;
+  font-size: 110%;
+}
+
+.hotel_date-about {
+  font-family: 'Lobster', cursive;
+  font-size: 92%;
+}
+
+.logo {
+  position: relative;
+}
+
+.logo__logo {
+  width: 226px;
+  height:  226px;
+  float: left;
+  margin-right: 10px;
+}
+
+.block {
+ 
+}
+
+.hotel {
+  margin: 10px;
+}
+/*modal window styles*/
+
